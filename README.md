@@ -1,7 +1,8 @@
 ﻿# Personaje Adapter
 
+Daniel Alejendro Roa Palacios - 20171020077
 
-En el siguente repositorio se realizara la debida implementacon del patron estructural Adapter al basarme en un personaje de videojuegos creado por el compañero brayanpasa99 (Brayan Paredes), el patron a trata es este:
+En el siguente repositorio se realizara la debida implementacon del patron estructural Adapter al basarme en un personaje de videojuegos creado por el compañero brayanpasa99 (Brayan Paredes), el patron a tratar es este:
 
 DIAGRAMA DE CLASES:
 
